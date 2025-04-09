@@ -31,6 +31,7 @@ The chatbot uses a pre-trained machine learning model and a vectorizer stored in
 healthcare-chatbot/
 │
 ├── app.py                  # Main Flask application
+├── train.py                # Train Model
 ├── chatbot_model.pkl       # Pickled vectorizer and ML model
 ├── healthcare_dataset.json # dataset
 ├── templates/
