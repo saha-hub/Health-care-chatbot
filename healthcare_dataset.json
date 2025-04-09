@@ -1,0 +1,390 @@
+[
+	{
+        "question": [
+        	"Hello",
+        	"hi",
+        	"who are you?",
+        	"what do you do?",
+        	"tell me about yourself"
+        	],        	
+        "answer": "Hello, I am A Healthcare Chatbot. You can ask me about any disease to know about it's symptoms and precautions!!!...."
+    },
+    {
+        "question": [
+        	"Fuck You",
+        	"Kiss me",
+        	"suck you"
+        	],        	
+        "answer": "Call satish @ +919014026729"
+    },
+    {
+        "question": [
+            "(vertigo) paroxysmal positional vertigo",
+            "What is paroxysmal positional vertigo?",
+            "Tell me about BPPV",
+            "What are the symptoms of vertigo?"
+        ],
+        "answer": "Benign paroxysmal positional vertigo (BPPV) is one of the most common causes of vertigo — the sudden sensation that you're spinning or that the inside of your head is spinning. Benign paroxysmal positional vertigo causes brief episodes of mild to intense dizziness. Precautions: lie down, avoid sudden change in body, avoid abrupt head movement, relax."
+    },
+    {
+        "question": [
+            "AIDS",
+            "What is AIDS?",
+            "Tell me about AIDS",
+            "What are the symptoms of AIDS?"
+        ],
+        "answer": "Acquired immunodeficiency syndrome (AIDS) is a chronic, potentially life-threatening condition caused by the human immunodeficiency virus (HIV). By damaging your immune system, HIV interferes with your body's ability to fight infection and disease. Precautions: avoid open cuts, wear PPE if possible, consult doctor, follow up."
+    },
+    {
+        "question": [
+            "Acne",
+            "What is Acne?",
+            "Tell me about Acne",
+            "How to treat Acne?"
+        ],
+        "answer": "Acne vulgaris is the formation of comedones, papules, pustules, nodules, and/or cysts as a result of obstruction and inflammation of pilosebaceous units (hair follicles and their accompanying sebaceous gland). Acne develops on the face and upper trunk. It most often affects adolescents. Precautions: bath twice, avoid fatty spicy food, drink plenty of water, avoid too many products."
+    },
+    {
+        "question": [
+            "Alcoholic hepatitis",
+            "What is Alcoholic hepatitis?",
+            "Tell me about Alcoholic hepatitis",
+            "What are the symptoms of Alcoholic hepatitis?"
+        ],
+        "answer": "Alcoholic hepatitis is a diseased, inflammatory condition of the liver caused by heavy alcohol consumption over an extended period of time. It's also aggravated by binge drinking and ongoing alcohol use. If you develop this condition, you must stop drinking alcohol. Precautions: stop alcohol consumption, consult doctor, medication, follow up."
+    },
+    {
+        "question": [
+            "Allergy",
+            "What is an Allergy?",
+            "Tell me about Allergy",
+            "What are the symptoms of an Allergy?"
+        ],
+        "answer": "An allergy is an immune system response to a foreign substance that's not typically harmful to your body. They can include certain foods, pollen, or pet dander. Your immune system's job is to keep you healthy by fighting harmful pathogens. Precautions: apply calamine, cover area with bandage, use ice to compress itching."
+    },
+    {
+        "question": [
+            "Arthritis",
+            "What is Arthritis?",
+            "Tell me about Arthritis",
+            "What are the symptoms of Arthritis?"
+        ],
+        "answer": "Arthritis is the swelling and tenderness of one or more of your joints. The main symptoms of arthritis are joint pain and stiffness, which typically worsen with age. The most common types of arthritis are osteoarthritis and rheumatoid arthritis. Precautions: exercise, use hot and cold therapy, try acupuncture, massage."
+    },
+    {
+        "question": [
+            "Bronchial asthma",
+            "What is Bronchial asthma?",
+            "Tell me about Bronchial asthma",
+            "What are the symptoms of Bronchial asthma?"
+        ],
+        "answer": "Bronchial asthma is a medical condition which causes the airway path of the lungs to swell and narrow. Due to this swelling, the air path produces excess mucus making it hard to breathe, which results in coughing, short breath, and wheezing. The disease is chronic and interferes with daily working. Precautions: switch to loose clothing, take deep breaths, get away from trigger, seek help."
+    },
+    {
+        "question": [
+            "Cervical spondylosis",
+            "What is Cervical spondylosis?",
+            "Tell me about Cervical spondylosis",
+            "What are the symptoms of Cervical spondylosis?"
+        ],
+        "answer": "Cervical spondylosis is a general term for age-related wear and tear affecting the spinal disks in your neck. As the disks dehydrate and shrink, signs of osteoarthritis develop, including bony projections along the edges of bones (bone spurs). Precautions: use heating pad or cold pack, exercise, take OTC pain reliever, consult doctor."
+    },
+    {
+        "question": [
+            "Chicken pox",
+            "What is Chicken pox?",
+            "Tell me about Chicken pox",
+            "What are the symptoms of Chicken pox?"
+        ],
+        "answer": "Chickenpox is a highly contagious disease caused by the varicella-zoster virus (VZV). It can cause an itchy, blister-like rash. The rash first appears on the chest, back, and face, and then spreads over the entire body, causing between 250 and 500 itchy blisters. Precautions: use neem in bathing, consume neem leaves, take vaccine, avoid public places."
+    },
+    {
+        "question": [
+            "Chronic cholestasis",
+            "What is Chronic cholestasis?",
+            "Tell me about Chronic cholestasis",
+            "What are the symptoms of Chronic cholestasis?"
+        ],
+        "answer": "Chronic cholestatic diseases, whether occurring in infancy, childhood or adulthood, are characterized by defective bile acid transport from the liver to the intestine, which is caused by primary damage to the biliary epithelium in most cases. Precautions: cold baths, anti-itch medicine, consult doctor, eat healthy."
+    },
+    {
+        "question": [
+            "Common cold",
+            "What is Common cold?",
+            "Tell me about Common cold",
+            "What are the symptoms of Common cold?"
+        ],
+        "answer": "The common cold is a viral infection of your nose and throat (upper respiratory tract). It's usually harmless, although it might not feel that way. Many types of viruses can cause a common cold. Precautions: drink vitamin C rich drinks, take vapour, avoid cold food, keep fever in check."
+    },
+    {
+        "question": [
+            "Dengue",
+            "What is Dengue?",
+            "Tell me about Dengue",
+            "What are the symptoms of Dengue?"
+        ],
+        "answer": "An acute infectious disease caused by a flavivirus (species Dengue virus of the genus Flavivirus), transmitted by aedes mosquitoes, and characterized by headache, severe joint pain, and a rash. — called also breakbone fever, dengue fever. Precautions: drink papaya leaf juice, avoid fatty spicy food, keep mosquitos away, keep hydrated."
+    },
+    {
+        "question": [
+            "Diabetes",
+            "What is Diabetes?",
+            "Tell me about Diabetes",
+            "What are the symptoms of Diabetes?"
+        ],
+        "answer": "Diabetes is a disease that occurs when your blood glucose, also called blood sugar, is too high. Blood glucose is your main source of energy and comes from the food you eat. Insulin, a hormone made by the pancreas, helps glucose from food get into your cells to be used for energy. Precautions: have balanced diet, exercise, consult doctor, follow up."
+    },
+    {
+        "question": [
+            "Dimorphic hemorrhoids(piles)",
+            "What is Dimorphic hemorrhoids?",
+            "Tell me about Dimorphic hemorrhoids",
+            "What are the symptoms of Dimorphic hemorrhoids?"
+        ],
+        "answer": "Hemorrhoids, also spelled haemorrhoids, are vascular structures in the anal canal. In their ... Other names, Haemorrhoids, piles, hemorrhoidal disease. Precautions: avoid fatty spicy food, consume witch hazel, warm bath with epsom salt, consume aloe vera juice."
+    },
+    {
+        "question": [
+            "Drug reaction",
+            "What is Drug reaction?",
+            "Tell me about Drug reaction",
+            "What are the symptoms of Drug reaction?"
+        ],
+        "answer": "An adverse drug reaction (ADR) is an injury caused by taking medication. ADRs may occur following a single dose or prolonged administration of a drug or result from the combination of two or more drugs. Precautions: stop taking drug."
+    },
+    {
+        "question": [
+            "Fungal infection",
+            "What is Fungal infection?",
+            "Tell me about Fungal infection",
+            "What are the symptoms of Fungal infection?"
+        ],
+        "answer": "In humans, fungal infections occur when an invading fungus takes over an area of the body and is too much for the immune system to handle. Fungi can live in the air, soil, water, and plants. There are also some fungi that live naturally in the human body. Like many microbes, there are helpful fungi and harmful fungi. Precautions: bath twice, use detol or neem in bathing water, keep infected area dry, use clean cloths."
+    },
+    {
+        "question": [
+            "Gerd",
+            "What is Gerd?",
+            "Tell me about Gerd",
+            "What are the symptoms of Gerd?"
+        ],
+        "answer": "Gastroesophageal reflux disease, or GERD, is a digestive disorder that affects the lower esophageal sphincter (LES), the ring of muscle between the esophagus and stomach. Many people, including pregnant women, suffer from heartburn or acid indigestion caused by GERD. Precautions: avoid fatty spicy food, avoid lying down after eating, maintain healthy weight, exercise."
+    },
+    {
+        "question": [
+            "Gastroenteritis",
+            "What is Gastroenteritis?",
+            "Tell me about Gastroenteritis",
+            "What are the symptoms of Gastroenteritis?"
+        ],
+        "answer": "Gastroenteritis is an inflammation of the digestive tract, particularly the stomach, and large and small intestines. Viral and bacterial gastroenteritis are intestinal infections associated with symptoms of diarrhea, abdominal cramps, nausea, and vomiting. Precautions: stop eating solid food for while, try taking small sips of water, rest, ease back into eating."
+    },
+    {
+        "question": [
+            "Heart attack",
+            "What is a Heart attack?",
+            "Tell me about Heart attack",
+            "What are the symptoms of a Heart attack?"
+        ],
+        "answer": "The death of heart muscle due to the loss of blood supply. The loss of blood supply is usually caused by a complete blockage of a coronary artery, one of the arteries that supplies blood to the heart muscle. Precautions: call ambulance, chew or swallow aspirin, keep calm."
+    },
+    {
+        "question": [
+            "Hepatitis b",
+            "What is Hepatitis b?",
+            "Tell me about Hepatitis b",
+            "What are the symptoms of Hepatitis b?"
+        ],
+        "answer": "Hepatitis B is an infection of your liver. It can cause scarring of the organ, liver failure, and cancer. It can be fatal if it isn't treated. It's spread when people come in contact with the blood, open sores, or body fluids of someone who has the hepatitis B virus. Precautions: consult nearest hospital, vaccination, eat healthy, medication."
+    },
+    {
+        "question": [
+            "Hepatitis c",
+            "What is Hepatitis c?",
+            "Tell me about Hepatitis c",
+            "What are the symptoms of Hepatitis c?"
+        ],
+        "answer": "Inflammation of the liver due to the hepatitis C virus (HCV), which is usually spread via blood transfusion (rare), hemodialysis, and needle sticks. The damage hepatitis C does to the liver can lead to cirrhosis and its complications as well as cancer. Precautions: consult nearest hospital, vaccination, eat healthy, medication."
+    },
+    {
+        "question": [
+            "Hepatitis d",
+            "What is Hepatitis d?",
+            "Tell me about Hepatitis d",
+            "What are the symptoms of Hepatitis d?"
+        ],
+        "answer": "Hepatitis D, also known as the hepatitis delta virus, is an infection that causes the liver to become inflamed. This swelling can impair liver function and cause long-term liver problems, including liver scarring and cancer. The condition is caused by the hepatitis D virus (HDV). Precautions: consult doctor, medication, eat healthy, follow up."
+    },
+    {
+        "question": [
+            "Hepatitis e",
+            "What is Hepatitis e?",
+            "Tell me about Hepatitis e",
+            "What are the symptoms of Hepatitis e?"
+        ],
+        "answer": "A rare form of liver inflammation caused by infection with the hepatitis E virus (HEV). It is transmitted via food or drink handled by an infected person or through infected water supplies in areas where fecal matter may get into the water. Hepatitis E does not cause chronic liver disease. Precautions: stop alcohol consumption, rest, consult doctor, medication."
+    },
+    {
+        "question": [
+            "Hypertension",
+            "What is Hypertension?",
+            "Tell me about Hypertension",
+            "What are the symptoms of Hypertension?"
+        ],
+        "answer": "Hypertension (HTN or HT), also known as high blood pressure (HBP), is a long-term medical condition in which the blood pressure in the arteries is persistently elevated. High blood pressure typically does not cause symptoms. Precautions: meditation, salt baths, reduce stress, get proper sleep."
+    },
+    {
+        "question": [
+            "Hyperthyroidism",
+            "What is Hyperthyroidism?",
+            "Tell me about Hyperthyroidism",
+            "What are the symptoms of Hyperthyroidism?"
+        ],
+        "answer": "Hyperthyroidism (overactive thyroid) occurs when your thyroid gland produces too much of the hormone thyroxine. Hyperthyroidism can accelerate your body's metabolism, causing unintentional weight loss and a rapid or irregular heartbeat. Precautions: eat healthy, massage, use lemon balm, take radioactive iodine treatment."
+    },
+    {
+        "question": [
+            "Hypoglycemia",
+            "What is Hypoglycemia?",
+            "Tell me about Hypoglycemia",
+            "What are the symptoms of Hypoglycemia?"
+        ],
+        "answer": "Hypoglycemia is a condition in which your blood sugar (glucose) level is lower than normal. Glucose is your body's main energy source. Hypoglycemia is often related to diabetes treatment. But other drugs and a variety of conditions — many rare — can cause low blood sugar in people who don't have diabetes. Precautions: lie down on side, check in pulse, drink sugary drinks, consult doctor."
+    },
+    {
+        "question": [
+            "Hypothyroidism",
+            "What is Hypothyroidism?",
+            "Tell me about Hypothyroidism",
+            "What are the symptoms of Hypothyroidism?"
+        ],
+        "answer": "Hypothyroidism, also called underactive thyroid or low thyroid, is a disorder of the endocrine system in which the thyroid gland does not produce enough thyroid hormone. Precautions: reduce stress, exercise, eat healthy, get proper sleep."
+    },
+    {
+        "question": [
+            "Impetigo",
+            "What is Impetigo?",
+            "Tell me about Impetigo",
+            "What are the symptoms of Impetigo?"
+        ],
+        "answer": "Impetigo (im-puh-TIE-go) is a common and highly contagious skin infection that mainly affects infants and children. Impetigo usually appears as red sores on the face, especially around a child's nose and mouth, and on hands and feet. The sores burst and develop honey-colored crusts. Precautions: soak affected area in warm water, use antibiotics, remove scabs with wet compressed cloth, consult doctor."
+    },
+    {
+        "question": [
+            "Jaundice",
+            "What is Jaundice?",
+            "Tell me about Jaundice",
+            "What are the symptoms of Jaundice?"
+        ],
+        "answer": "Yellow staining of the skin and sclerae (the whites of the eyes) by abnormally high blood levels of the bile pigment bilirubin. The yellowing extends to other tissues and body fluids. Jaundice was once called the 'morbus regius' (the regal disease) in the belief that only the touch of a king could cure it. Precautions: drink plenty of water, consume milk thistle, eat fruits and high fibrous food, medication."
+    },
+    {
+        "question": [
+            "Malaria",
+            "What is Malaria?",
+            "Tell me about Malaria",
+            "What are the symptoms of Malaria?"
+        ],
+        "answer": "An infectious disease caused by protozoan parasites from the Plasmodium family that can be transmitted by the bite of the Anopheles mosquito or by a contaminated needle or transfusion. Falciparum malaria is the most deadly type. Precautions: consult nearest hospital, avoid oily food, avoid non-veg food, keep mosquitos out."
+    },
+    {
+        "question": [
+            "Migraine",
+            "What is Migraine?",
+            "Tell me about Migraine",
+            "What are the symptoms of Migraine?"
+        ],
+        "answer": "A migraine can cause severe throbbing pain or a pulsing sensation, usually on one side of the head. It's often accompanied by nausea, vomiting, and extreme sensitivity to light and sound. Migraine attacks can last for hours to days, and the pain can be so severe that it interferes with your daily activities. Precautions: meditation, reduce stress, use polaroid glasses in sun, consult doctor."
+    },
+    {
+        "question": [
+            "Osteoarthritis",
+            "What is Osteoarthritis?",
+            "Tell me about Osteoarthritis",
+            "What are the symptoms of Osteoarthritis?"
+        ],
+        "answer": "Osteoarthritis is the most common form of arthritis, affecting millions of people worldwide. It occurs when the protective cartilage that cushions the ends of your bones wears down over time. Precautions: acetaminophen, consult nearest hospital, follow up, salt baths."
+    },
+    {
+        "question": [
+            "Paralysis (brain hemorrhage)",
+            "What is Paralysis?",
+            "Tell me about Paralysis",
+            "What are the symptoms of Paralysis?"
+        ],
+        "answer": "Intracerebral hemorrhage (ICH) is when blood suddenly bursts into brain tissue, causing damage to your brain. Symptoms usually appear suddenly during ICH. They include headache, weakness, confusion, and paralysis, particularly on one side of your body. Precautions: massage, eat healthy, exercise, consult doctor."
+    },
+    {
+        "question": [
+            "Peptic ulcer disease",
+            "What is Peptic ulcer disease?",
+            "Tell me about Peptic ulcer disease",
+            "What are the symptoms of Peptic ulcer disease?"
+        ],
+        "answer": "Peptic ulcer disease (PUD) is a break in the inner lining of the stomach, the first part of the small intestine, or sometimes the lower esophagus. An ulcer in the stomach is called a gastric ulcer, while one in the first part of the intestines is a duodenal ulcer. Precautions: avoid fatty spicy food, consume probiotic food, eliminate milk, limit alcohol."
+    },
+    {
+        "question": [
+            "Pneumonia",
+            "What is Pneumonia?",
+            "Tell me about Pneumonia",
+            "What are the symptoms of Pneumonia?"
+        ],
+        "answer": "Pneumonia is an infection in one or both lungs. Bacteria, viruses, and fungi cause it. The infection causes inflammation in the air sacs in your lungs, which are called alveoli. The alveoli fill with fluid or pus, making it difficult to breathe. Precautions: consult doctor, medication, rest, follow up."
+    },
+    {
+        "question": [
+            "Psoriasis",
+            "What is Psoriasis?",
+            "Tell me about Psoriasis",
+            "What are the symptoms of Psoriasis?"
+        ],
+        "answer": "Psoriasis is a common skin disorder that forms thick, red, bumpy patches covered with silvery scales. They can pop up anywhere, but most appear on the scalp, elbows, knees, and lower back. Psoriasis can't be passed from person to person. It does sometimes happen in members of the same family. Precautions: wash hands with warm soapy water, stop bleeding using pressure, consult doctor, salt baths."
+    },
+    {
+        "question": [
+            "Tuberculosis",
+            "What is Tuberculosis?",
+            "Tell me about Tuberculosis",
+            "What are the symptoms of Tuberculosis?"
+        ],
+        "answer": "Tuberculosis (TB) is an infectious disease usually caused by Mycobacterium tuberculosis (MTB) bacteria. Tuberculosis generally affects the lungs, but can also affect other parts of the body. Most infections show no symptoms, in which case it is known as latent tuberculosis. Precautions: cover mouth, consult doctor, medication, rest."
+    },
+    {
+        "question": [
+            "Typhoid",
+            "What is Typhoid?",
+            "Tell me about Typhoid",
+            "What are the symptoms of Typhoid?"
+        ],
+        "answer": "An acute illness characterized by fever caused by infection with the bacterium Salmonella typhi. Typhoid fever has an insidious onset, with fever, headache, constipation, malaise, chills, and muscle pain. Diarrhea is uncommon, and vomiting is not usually severe. Precautions: eat high calorie vegetables, antibiotic therapy, consult doctor, medication."
+    },
+    {
+        "question": [
+            "Urinary tract infection",
+            "What is a Urinary tract infection?",
+            "Tell me about Urinary tract infection",
+            "What are the symptoms of a Urinary tract infection?"
+        ],
+        "answer": "Urinary tract infection: An infection of the kidney, ureter, bladder, or urethra. Abbreviated UTI. Not everyone with a UTI has symptoms, but common symptoms include a frequent urge to urinate and pain or burning when urinating. Precautions: drink plenty of water, increase vitamin C intake, drink cranberry juice, take probiotics."
+    },
+    {
+        "question": [
+            "Varicose veins",
+            "What are Varicose veins?",
+            "Tell me about Varicose veins",
+            "What are the symptoms of Varicose veins?"
+        ],
+        "answer": "A vein that has enlarged and twisted, often appearing as a bulging, blue blood vessel that is clearly visible through the skin. Varicose veins are most common in older adults, particularly women, and occur especially on the legs. Precautions: lie down flat and raise the leg high, use ointments, use vein compression, don't stand still for long."
+    },
+    {
+        "question": [
+            "Hepatitis a",
+            "What is Hepatitis a?",
+            "Tell me about Hepatitis a",
+            "What are the symptoms of Hepatitis a?"
+        ],
+        "answer": "Hepatitis A is a highly contagious liver infection caused by the hepatitis A virus. The virus is one of several types of hepatitis viruses that cause inflammation and affect your liver's ability to function. Precautions: consult nearest hospital, vaccination, eat healthy, medication."
+    }
+]
+
